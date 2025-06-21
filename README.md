@@ -10,7 +10,6 @@ A passionate software developer with a focus on full-stack web development and D
 - 💬 Ask me about **Web Dev, React, MongoDB, C++, DSA**
 - 🧠 I enjoy learning new tech & building real-world projects
 - 🔭 Currently working on: **BondBridge** & **Zero-Waste Marketplace**
-- 📝 I write content for 20K+ job-seeking audience at **FaangPath**
 
 ---
 
@@ -56,11 +55,9 @@ A passionate software developer with a focus on full-stack web development and D
         <img src="https://leetcard.jacoblin.cool/Jayasp?theme=dark&ext=heatmap&ext=contest&ext=activity" alt="LeetCode Stats" width="420"/>
       </a>
     </td>
-    <td align="center">
-      <b>🍜 CodeChef Stats</b><br>
-      <a href="https://www.codechef.com/users/jaya_codes">
-        <img src="https://cp-logo.vercel.app/codechef/jaya_codes?logo=true" alt="CodeChef Profile" width="220"/>
-      </a>
-    </td>
-  </tr>
 </table>
+👤 **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
+🥇 **Highest Rating**: 1088 (★)  
+🧠 **Problems Solved**: 110+  
+🏆 **Badges**: Participation in Long, Cook-Off, and Lunchtime  
+📈 **Current Rating**: ![CodeChef rating](https://img.shields.io/badge/Rating-2★-orange)
