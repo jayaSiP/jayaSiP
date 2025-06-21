@@ -56,8 +56,11 @@ A passionate software developer with a focus on full-stack web development and D
       </a>
     </td>
 </table>
-👤 **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
-🥇 **Highest Rating**: 1088 (★)  
-🧠 **Problems Solved**: 110+  
-🏆 **Badges**: Participation in Long, Cook-Off, and Lunchtime  
-📈 **Current Rating**: ![CodeChef rating](https://img.shields.io/badge/Rating-2★-orange)
+<a href="https://www.codechef.com/users/jaya_codes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/CodeChef@jaya_codes-110+_Problems_Solved-orange?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+- 🧑‍💻 **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
+- 🏅 **Highest Rating**: 1088 (★)  
+- 🧠 **Problems Solved**: 110+  
+- 🏆 **Badges**: Long Challenge, Cook-Off, and Lunchtime Participant  
