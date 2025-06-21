@@ -45,5 +45,22 @@ A passionate software developer with a focus on full-stack web development and D
 ![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaSiP&show_icons=true&theme=radical)
 
 ---
+## 💻 Competitive Programming
 
-⭐️ Feel free to follow or connect! Let's build something awesome together 🌟
+<table>
+  <tr>
+    <td align="center">
+      <b>🔥 LeetCode Stats</b><br>
+      <a href="https://leetcode.com/u/Jayasp/">
+        <img src="https://leetcard.jacoblin.cool/Jayasp?theme=dark&font=Baloo+Bhai&ext=activity" alt="LeetCode Stats" width="400"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>🍜 CodeChef Stats</b><br>
+      <a href="https://www.codechef.com/users/jaya_codes">
+        <img src="https://cp-logo.vercel.app/codechef/jaya_codes?logo=true" alt="CodeChef Profile" width="200"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
