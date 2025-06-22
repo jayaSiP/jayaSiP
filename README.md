@@ -71,6 +71,11 @@ Earned from completing the official Postman API Fundamentals Student Expert cour
 - 🧑‍💻 **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
 - 🏅 **Highest Rating**: 1088 (★)  
 - 🧠 **Problems Solved**: 110+  
-- 🏆 **Badges**: https://github.com/jayaSiP/jayaSiP/blob/main/CodeChefBadge.png
-                 https://github.com/jayaSiP/jayaSiP/blob/main/CodeChefBadge(1).png
+- 🏆 **Badges**:## 🏆 CodeChef Badges
+
+Earned from completing the official Postman API Fundamentals Student Expert course.
+
+![CodeChef Badge Problems](https://raw.githubusercontent.com/jayaSiP/jayaSiP/main/CodeChefBadge.png)
+![CodeChef Badge Streaks](https://raw.githubusercontent.com/jayaSiP/jayaSiP/main/CodeChefBadge(1).png)
+
  
