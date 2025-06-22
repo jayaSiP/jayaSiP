@@ -59,8 +59,18 @@ A passionate software developer with a focus on full-stack web development and D
 <a href="https://www.codechef.com/users/jaya_codes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/CodeChef@jaya_codes-110+_Problems_Solved-orange?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
+## 🏅 Certifications
+
+### ✅ Postman API Fundamentals Student Expert
+
+<img src="https://github.com/jayaSiP/jayaSiP/blob/main/Postman%20-%20Postman%20API%20Fundamentals%20Student%20Expert%20-%202025-06-22%20(1).png" width="120" alt="Postman Badge" />
+
+Earned from completing the official Postman API Fundamentals Student Expert course.
+
 
 - 🧑‍💻 **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
 - 🏅 **Highest Rating**: 1088 (★)  
 - 🧠 **Problems Solved**: 110+  
-- 🏆 **Badges**: Long Challenge, Cook-Off, and Lunchtime Participant  
+- 🏆 **Badges**: https://github.com/jayaSiP/jayaSiP/blob/main/CodeChefBadge.png
+                 https://github.com/jayaSiP/jayaSiP/blob/main/CodeChefBadge(1).png
+ 
