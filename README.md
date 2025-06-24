@@ -39,9 +39,27 @@ A passionate software developer with a focus on full-stack web development and D
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jayaSiP&theme=algolia&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayaSiP&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 📈 GitHub Stats
 
 ![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaSiP&show_icons=true&theme=radical)
+
+---
+
+## ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -55,10 +73,15 @@ A passionate software developer with a focus on full-stack web development and D
         <img src="https://leetcard.jacoblin.cool/Jayasp?theme=dark&ext=heatmap&ext=contest&ext=activity" alt="LeetCode Stats" width="420"/>
       </a>
     </td>
+  </tr>
 </table>
+
 <a href="https://www.codechef.com/users/jaya_codes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/CodeChef@jaya_codes-110+_Problems_Solved-orange?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeChef@jaya_codes-110+_Problems_Solved-orange?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
+
+---
+
 ## 🏅 Certifications
 
 ### ✅ Postman API Fundamentals Student Expert
@@ -67,13 +90,17 @@ A passionate software developer with a focus on full-stack web development and D
 
 Earned from completing the official Postman API Fundamentals Student Expert course.
 
+---
 
-- 🧑‍💻 **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
-- 🏅 **Highest Rating**: 1088 (★)  
-- 🧠 **Problems Solved**: 110+  
-- 🏆 **Badges**:## 🏆 CodeChef Badges
+## 🧑‍💻 CodeChef Highlights
+
+- **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
+- **Highest Rating**: 1088 (★)  
+- **Problems Solved**: 110+  
+
+### 🏆 CodeChef Badges
+
 [![Problems Solved](https://img.shields.io/badge/Solved-110%2B-orange?style=flat)](https://www.codechef.com/users/jaya_codes)
 [![Badge](https://img.shields.io/badge/Badge-Bronze-brightgreen?style=flat)](https://www.codechef.com/users/jaya_codes)
 
-
- 
+---
