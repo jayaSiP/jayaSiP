@@ -51,12 +51,11 @@ A passionate software developer with a focus on full-stack web development and D
 
 ---
 
-## 📈 GitHub Stats
 
-![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaSiP&show_icons=true&theme=radical)
+## 🐍 GitHub Contribution Snake
 
----
-![snake gif](https://raw.githubusercontent.com/jayaSiP/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/jayaSiP/snk/output/github-contribution-grid-snake.svg)
+
 
 
 ## 💻 Competitive Programming
