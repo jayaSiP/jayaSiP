@@ -51,11 +51,9 @@ A passionate software developer with a focus on full-stack web development and D
 
 ---
 
-
 ## 🐍 GitHub Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/jayaSiP/snk/output/github-contribution-grid-snake.svg)
-
+![GitHub Snake](https://raw.githubusercontent.com/jayaSiP/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
 
 ## 💻 Competitive Programming
