@@ -56,12 +56,8 @@ A passionate software developer with a focus on full-stack web development and D
 ![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayaSiP&show_icons=true&theme=radical)
 
 ---
+![snake gif](https://raw.githubusercontent.com/jayaSiP/snk/output/github-contribution-grid-snake.svg)
 
-## ✍️ Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ## 💻 Competitive Programming
 
