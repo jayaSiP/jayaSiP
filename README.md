@@ -85,11 +85,19 @@ Earned from completing the official Postman API Fundamentals Student Expert cour
 
 ---
 
-## 🧑‍💻 CodeChef Highlights
+🧑‍💻 CodeChef Highlights
 
-- **Username**: [jaya_codes](https://www.codechef.com/users/jaya_codes)  
-- **Highest Rating**: 1088 (★)  
-- **Problems Solved**: 110+  
+    Highest Rating: 1107 (★)
+
+    Problems Solved: 170+
+
+🏆 CodeChef Badges
+
+
+Badge
+<img src="https://chat.openai.com/mnt/data/CodeChefBadge(2).png" width="150" alt="Silver Streak Badge" />
+
+    🥈 Silver Streak Badge – Awarded for maintaining a 25-day coding streak on CodeChef!
 
 ### 🏆 CodeChef Badges
 
