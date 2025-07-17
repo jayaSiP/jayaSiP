@@ -63,7 +63,7 @@ A passionate software developer with a focus on full-stack web development and D
     <td align="center">
       <b>🔥 LeetCode Stats</b><br>
       <a href="https://leetcode.com/u/JayaSip/">
-        <img src="https://leetcard.jacoblin.cool/Jayasp?theme=dark&ext=heatmap&ext=contest&ext=activity" alt="LeetCode Stats" width="420"/>
+<img src="https://leetcard.jacoblin.cool/JayaSip?theme=dark&ext=heatmap&ext=contest&ext=activity" />
       </a>
     </td>
   </tr>
@@ -87,9 +87,9 @@ Earned from completing the official Postman API Fundamentals Student Expert cour
 
 🧑‍💻 CodeChef Highlights
 
-    Highest Rating: 1107 (★)
+    Highest Rating: 1211 (★)
 
-    Problems Solved: 170+
+    Problems Solved: 250+
 
 🏆 CodeChef Badges
 
