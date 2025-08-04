@@ -14,8 +14,6 @@ A passionate software developer with a focus on full-stack web development and D
 ---
 
 ## 📫 How to Reach Me
-
-- 📧 Email: `22052821@kiit.ac.in`
 - 💼 [LinkedIn](https://www.linkedin.com/in/jayasingh20/)
 - 👨‍💻 [GitHub](https://github.com/jayaSiP)
 - 🌐 [Portfolio (Coming Soon)](https://port.vercel.app)
