@@ -61,7 +61,7 @@ A passionate software developer with a focus on full-stack web development and D
     <td align="center">
       <b>🔥 LeetCode Stats</b><br>
       <a href="https://leetcode.com/u/jayaSip/">
-<img src="https://leetcard.jacoblin.cool/jaya_singh21?theme=dark&ext=heatmap&ext=contest&ext=activity" />
+<img src="https://leetcard.jacoblin.cool/jayaSip?theme=dark&ext=heatmap&ext=contest&ext=activity" />
       </a>
     </td>
   </tr>
