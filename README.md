@@ -60,7 +60,7 @@ A passionate software developer with a focus on full-stack web development and D
   <tr>
     <td align="center">
       <b>🔥 LeetCode Stats</b><br>
-      <a href="https://leetcode.com/u/jaya_singh21/">
+      <a href="https://leetcode.com/u/jayaSip/">
 <img src="https://leetcard.jacoblin.cool/jaya_singh21?theme=dark&ext=heatmap&ext=contest&ext=activity" />
       </a>
     </td>
@@ -85,7 +85,7 @@ Earned from completing the official Postman API Fundamentals Student Expert cour
 
 🧑‍💻 CodeChef Highlights
 
-    Highest Rating: 1211 (★)
+    Highest Rating: 1312 (★)
 
     Problems Solved: 250+
 
