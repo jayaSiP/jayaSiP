@@ -6,10 +6,14 @@ A passionate software developer with a focus on full-stack web development and D
 
 ## 💡 About Me
 
-- 🌱 I’m currently learning **Backend Development** and exploring **Emerging Tech**
-- 💬 Ask me about **Web Dev, React, MongoDB, C++, DSA**
-- 🧠 I enjoy learning new tech & building real-world projects
-- 🔭 Currently working on: **BondBridge** & **Zero-Waste Marketplace**
+* 🌱 I’m currently learning **Backend Development**, **AI/LLMs**, and exploring **Emerging Technologies**
+* 🤖 Currently working on **Generative AI** and **Agentic AI projects**
+* 💻 Have hands-on experience with the **MERN Stack (MongoDB, Express, React, Node.js)**
+* ☁️ Exploring **Azure Data Engineering** and cloud-based data solutions
+* 🔐 Have a basic understanding of **Cybersecurity principles and best practices**
+* 💬 Ask me about **Web Development, React, MongoDB, C++, DSA, and AI-based applications**
+* 🧠 I enjoy building **real-world, intelligent systems** and continuously learning new technologies
+
 
 ---
 
